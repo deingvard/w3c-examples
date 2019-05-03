@@ -17,6 +17,12 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class BaseSauceJunit4  {
+    
+    //DON'T USE THIS CODE, IT'S NOT RIGHT
+    // USE THIS CODE INSTEAD - https://github.com/saucelabs-training/w3c-examples/blob/master/java/Junit4Example.java#L42
+    //
+    //*******
+    //*** ^^^^^^^^^^^^^^^^
     protected WebDriver driver;
     public Boolean result;
 
